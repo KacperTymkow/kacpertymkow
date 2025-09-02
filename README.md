@@ -37,16 +37,16 @@ Data Science, Machine Learning, Artificial Intelligence, Economy
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<!-- ⚠️ Important: Replace 'KacperTymkow' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KacperTymkow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔥 Contribution Streak
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<!-- ⚠️ Important: Replace 'KacperTymkow' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KacperTymkow&theme=dark&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
@@ -73,12 +73,13 @@ Data Science, Machine Learning, Artificial Intelligence, Economy
 
 ```javascript
 const socials = {
+  github: "KacperTymkow",
   website: "https://kacpertymkow.github.io/Portfolio/",
 }
 ```
 
 <div>
-<a href="https://kacpertymkow.github.io/Portfolio/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> 
+<a href="KacperTymkow"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://kacpertymkow.github.io/Portfolio/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> 
 </div>
 
 ```typescript
