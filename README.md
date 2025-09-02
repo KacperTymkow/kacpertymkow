@@ -35,25 +35,40 @@ Developing an algorithm for bank transaction fraud detection
 
 Data Science, Machine Learning, Artificial Intelligence, Economy
 
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
+
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
+
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'KacperTymkow' with your actual GitHub username in the URL below -->
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KacperTymkow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'KacperTymkow' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KacperTymkow&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔥 Contribution Streak
 
-<!-- ⚠️ Important: Replace 'KacperTymkow' with your actual GitHub username in the URL below -->
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KacperTymkow&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=false" />
+</div>
+
+## 🐦 Latest Tweet
+
+<!-- ⚠️ Important: Replace 'YOUR_TWITTER_USERNAME' with your actual Twitter username in the URL below -->
+<div align="center">
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_USERNAME" /></a>
 </div>
 
 ## 💻 Tech Stack
@@ -80,23 +95,13 @@ Data Science, Machine Learning, Artificial Intelligence, Economy
 
 ```javascript
 const socials = {
-  github: "KacperTymkow",
-  linkedin: "kacpertymkow",
   website: "https://kacpertymkow.github.io/Portfolio/",
 }
 ```
 
 <div>
-<a href="https://github.com/KacperTymkow"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://pl.linkedin.com/in/kacpertymkow"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://kacpertymkow.github.io/Portfolio/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> 
+<a href="https://kacpertymkow.github.io/Portfolio/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> 
 </div>
-
-## 📫 How to reach me
-
-```javascript
-const contact = {
-  email: "kactymbrzeg@gmail.com",
-}
-```
 
 ```typescript
 // Thanks for visiting my profile!
