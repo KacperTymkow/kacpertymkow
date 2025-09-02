@@ -74,12 +74,14 @@ Data Science, Machine Learning, Artificial Intelligence, Economy
 ```javascript
 const socials = {
   github: "KacperTymkow",
+  linkedin: "kacpertymkow",
   website: "https://kacpertymkow.github.io/Portfolio/",
+  hackerrank: "kacper_tymkow",
 }
 ```
 
 <div>
-<a href="KacperTymkow"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://kacpertymkow.github.io/Portfolio/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> 
+<a href="KacperTymkow"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kacpertymkow"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://kacpertymkow.github.io/Portfolio/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://www.hackerrank.com/profile/kacper_tymkow"><img src="https://img.shields.io/badge/hackerrank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a> 
 </div>
 
 ```typescript
